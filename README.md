@@ -41,8 +41,4 @@ Para la extensión del proyecto, se implementaron las siguientes tres funcionali
 * **Gestión de Datos en Memoria**: Para optimizar el rendimiento y evitar múltiples lecturas del archivo en cada solicitud, el _dataset_ completo se carga una sola vez en la memoria al iniciar el servidor. Esto permite respuestas más rápidas a las peticiones de la API.
 * **Middleware Personalizado**: Se crearon middlewares dedicados para el registro de solicitudes (_logging_) y el manejo centralizado de errores. Esta práctica mantiene las rutas y controladores limpios y facilita la depuración y el monitoreo.
 
----
 
-### **Enlace al Sitio**
-
-[**Enlace a la API desplegada**](AQUI_VA_LA_URL_DE_TU_SITIO_DESPLEGADO)
